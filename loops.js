@@ -6,6 +6,7 @@ function forLoop(Array){
     else {
       array.push("I am ${i} strange loops.");
     }
+  }
  return Array;
 
 }
